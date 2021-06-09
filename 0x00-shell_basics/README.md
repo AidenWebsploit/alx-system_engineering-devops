@@ -14,5 +14,6 @@
 13-symbolic_link -> Creates a symbolic link in linux
 14-copy_html -> Copy html files from working directory to parent directory
 100-lets_move -> Move all files that begin with a capital letter
+101-clean_emacs -> Delete all files in the current working directory that end with the ~ character
 
 

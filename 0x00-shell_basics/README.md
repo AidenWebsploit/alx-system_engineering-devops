@@ -17,6 +17,7 @@
 101-clean_emacs -> Delete all files in the current working directory that end with the ~ character
 102-tree -> Making interleaving directories using mkdir command
 103-commas -> How to list contents of current working directory stylishly
+holberton.mgc -> This is a magic file that detect sholberton data files
 
 
 

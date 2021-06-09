@@ -9,5 +9,6 @@
 8-firstdelete -> Deleting a file
 9-firstdirdeletion -> Deleting a directory
 10-back -> Script that changes the working directory to the previous one
+11-lists -> list directory contents in hidden files and /boot
 
 

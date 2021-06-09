@@ -12,5 +12,6 @@
 11-lists -> list directory contents in hidden files and /boot
 12-file_type -> Finds the type of the file named
 13-symbolic_link -> Creates a symbolic link in linux
+14-copy_html -> Copy html files from working directory to parent directory
 
 

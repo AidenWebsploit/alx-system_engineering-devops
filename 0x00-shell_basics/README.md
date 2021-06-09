@@ -15,5 +15,7 @@
 14-copy_html -> Copy html files from working directory to parent directory
 100-lets_move -> Move all files that begin with a capital letter
 101-clean_emacs -> Delete all files in the current working directory that end with the ~ character
+102-tree -> Making interleaving directories using mkdir command
+
 
 

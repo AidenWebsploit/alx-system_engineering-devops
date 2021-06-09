@@ -6,5 +6,6 @@
 5-listfilesdigitonly -> Display current directory contents including hidden files, user  ids and group ids numerically
 6-firstdirectory -> Create first directory
 7-movethatfile -> Moving a file from one directory to another
+8-firstdelete -> Deleting a file
 
 

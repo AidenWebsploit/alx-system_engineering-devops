@@ -4,4 +4,6 @@
 3-new_owner -> Change the owner of a file
 4-empty -> Create an empty file
 5-execute -> Changes the file permissions of the owner
+6-multiple_permissions -> Changing multiple permissions of a file
+
 

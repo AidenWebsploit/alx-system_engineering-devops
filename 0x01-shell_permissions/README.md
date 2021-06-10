@@ -10,4 +10,5 @@
 9-John_Doe -> Changing another file mode numerically
 10-mirror_permissions -> Mirror permissions of another file
 11-directories permissions -> Add execute permisiions on directories
+12-directory_permissions -> Change directory permissions at creation time
 

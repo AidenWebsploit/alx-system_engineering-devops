@@ -6,5 +6,6 @@
 5-execute -> Changes the file permissions of the owner
 6-multiple_permissions -> Changing multiple permissions of a file
 7-everybody -> Allowing execute permissions to owner, group and others
+8-James_Bond -> Changing varying permissions to the different users of the file
 
 

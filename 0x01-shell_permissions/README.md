@@ -8,5 +8,6 @@
 7-everybody -> Allowing execute permissions to owner, group and others
 8-James_Bond -> Changing varying permissions to the different users of the file
 9-John_Doe -> Changing another file mode numerically
+10-mirror_permissions -> Mirror permissions of another file
 
 

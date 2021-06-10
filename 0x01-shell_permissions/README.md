@@ -3,4 +3,5 @@
 2-groups -> Prints all the groups the current user is part of
 3-new_owner -> Change the owner of a file
 4-empty -> Create an empty file
+5-execute -> Changes the file permissions of the owner
 

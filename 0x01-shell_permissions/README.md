@@ -12,4 +12,5 @@
 11-directories permissions -> Add execute permisiions on directories
 12-directory_permissions -> Change directory permissions at creation time
 13-change_group -> Change the group of a certain file
+100-chnage_owner_and_group -> Change the owner and group in a single command
 

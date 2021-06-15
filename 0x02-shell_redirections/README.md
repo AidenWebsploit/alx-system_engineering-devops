@@ -4,6 +4,7 @@
 3-twofiles -> Two files read
 4-lastlines -> Display last lines
 5-firstlines -> Display first lines
+6-third_line -> Display the third line
 
 
 

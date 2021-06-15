@@ -1,3 +1,6 @@
-0-alis -> Creates an alias
+0-alias -> Creates an alias
+1-hello_you -> HUsees $HOME variable
+
+
 
 

@@ -18,6 +18,7 @@
 17-hidethisword -> Gide the word bin
 18-lettersonly -> Search for letters only
 19-AZ -> trace A to Z
+20-hiago -> Trace for certain characters
 
 
 

@@ -12,6 +12,7 @@
 11-directories -> Directories that count
 12-newest_files -> Creations of newest files
 13-unique -> Unique search results
+14-findthatword  -> Grep to find word
 
 
 

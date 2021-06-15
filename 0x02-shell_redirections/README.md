@@ -8,6 +8,7 @@
 7-file -> Create a funny file
 8-cwd_state -> store current list in a file
 9-duplicate_last_line -> duplicate last line
+10-no_more_js -> Delete JS files
 
 
 

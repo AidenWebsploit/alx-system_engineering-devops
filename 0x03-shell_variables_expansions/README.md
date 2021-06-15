@@ -3,6 +3,7 @@
 2-path -> PATH variable
 3-paths -> Create a Path tracer
 4-global_variables -> Print global variables
+5-local_variable -> Print local variable
 
 
 

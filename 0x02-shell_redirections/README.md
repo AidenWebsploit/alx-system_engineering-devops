@@ -3,6 +3,7 @@
 2-hellofile -> Hello file added
 3-twofiles -> Two files read
 4-lastlines -> Display last lines
+5-firstlines -> Display first lines
 
 
 

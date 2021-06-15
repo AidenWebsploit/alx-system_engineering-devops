@@ -20,6 +20,4 @@
 19-AZ -> trace A to Z
 20-hiago -> Trace for certain characters
 21-reverse -> Reverse command
-
-
-
+22-users_and_homes -> Usera and Homes fields

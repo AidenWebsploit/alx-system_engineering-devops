@@ -5,6 +5,7 @@
 4-global_variables -> Print global variables
 5-local_variable -> Print local variable
 6-create_local_file -> Create a local variable
+7-create_global_variable -> Create a global variable
 
 
 

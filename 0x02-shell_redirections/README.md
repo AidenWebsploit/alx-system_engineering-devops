@@ -6,6 +6,7 @@
 5-firstlines -> Display first lines
 6-third_line -> Display the third line
 7-file -> Create a funny file
+8-cwd_state -> store current list in a file
 
 
 

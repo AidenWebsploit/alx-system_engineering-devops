@@ -10,6 +10,7 @@
 9-divide_and_rule -> Divide and rule is good for war
 10-love_exponent_breath -> Love is crap
 11-binary_to_decimal -> Binary to Decimal
+12-combinations -> Combinations to files
 
 
 

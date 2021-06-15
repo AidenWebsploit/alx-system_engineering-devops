@@ -16,7 +16,7 @@
 15-countthatword -> Grep to count that word
 16-whatsnext -> Check for threee lines after a pattern
 17-hidethisword -> Gide the word bin
-
+18-lettersonly -> Search for letters only
 
 
 

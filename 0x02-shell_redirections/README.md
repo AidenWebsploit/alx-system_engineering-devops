@@ -7,6 +7,8 @@
 6-third_line -> Display the third line
 7-file -> Create a funny file
 8-cwd_state -> store current list in a file
+9-duplicate_last_line -> duplicate last line
+
 
 
 

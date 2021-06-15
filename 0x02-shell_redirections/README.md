@@ -5,7 +5,7 @@
 4-lastlines -> Display last lines
 5-firstlines -> Display first lines
 6-third_line -> Display the third line
-
+7-file -> Create a funny file
 
 
 

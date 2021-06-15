@@ -9,6 +9,7 @@
 8-true_knowledge -> True knowledge is human power
 9-divide_and_rule -> Divide and rule is good for war
 10-love_exponent_breath -> Love is crap
+11-binary_to_decimal -> Binary to Decimal
 
 
 
